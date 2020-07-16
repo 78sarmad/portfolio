@@ -26,6 +26,5 @@ Design - Adobe XD, Illustrator & Balsamiq
 
 ### Get In Touch
 
-Email: [sarmad.ashfaq@inbox.ru](mailto:sarmad.ashfaq@inbox.ru)
-LinkedIn: [https://www.linkedin.com/in/78sarmad/](https://www.linkedin.com/in/78sarmad/)
-
+- Email: [sarmad.ashfaq@inbox.ru](mailto:sarmad.ashfaq@inbox.ru)
+- LinkedIn: [https://www.linkedin.com/in/78sarmad/](https://www.linkedin.com/in/78sarmad/)
