@@ -21,7 +21,7 @@ Design - Adobe XD, Illustrator & Balsamiq
 ### Notable Projects
 
 - [Reservify - Reservation Management App](https://github.com/78sarmad/reservify)
-- [Chaaye Khana Website](http://www.chaayekhana.com/)
+- [Chaaye Khana Website](http://www.chaayekhana.com/) (discontinued)
 
 
 ### Get In Touch
