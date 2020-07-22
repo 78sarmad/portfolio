@@ -14,7 +14,7 @@ Software Engineer specialized in building exceptional interfaces, web applicatio
 - Mobile App Development - Flutter, Dart, Firebase
 - Web Development - HTML, CSS/Sass, JavaScript, PHP, MySQL
 - Desktop Application Development - C# (.NET), C++, SQL
-- Design - Adobe XD, Adobe Illustrator & Balsamiq
+- Design - Adobe XD, Adobe Illustrator, Balsamiq, Sketch
 
 
 ### Notable Projects
