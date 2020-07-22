@@ -4,19 +4,17 @@ Software Engineer specialized in building exceptional interfaces, web applicatio
 
 ### Experience
 
-```markdown
-UNDP - Web Developer
-chaaye khana - Front-end Developer
-Couch Potato - Web Developement Intern
-```
+- UNDP - Web Developer
+- chaaye khana - Front-end Developer
+- Couch Potato - Web Development Intern
+
 
 ### Skills
 
-```markdown
-Mobile App Development - Flutter, Dart & Firebase
-Web Development - HTML, CSS/Sass, JavaScript, PHP & MySQL
-Design - Adobe XD, Illustrator & Balsamiq
-```
+- Mobile App Development - Flutter, Dart & Firebase
+- Web Development - HTML, CSS/Sass, JavaScript, PHP & MySQL
+- Design - Adobe XD, Illustrator & Balsamiq
+
 
 ### Notable Projects
 
