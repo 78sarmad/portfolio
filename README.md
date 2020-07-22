@@ -11,9 +11,9 @@ Software Engineer specialized in building exceptional interfaces, web applicatio
 
 ### Skills
 
-- Mobile App Development - Flutter, Dart & Firebase
-- Web Development - HTML, CSS/Sass, JavaScript, PHP & MySQL
-- Desktop Application Development - C# (.NET), C++
+- Mobile App Development - Flutter, Dart, Firebase
+- Web Development - HTML, CSS/Sass, JavaScript, PHP, MySQL
+- Desktop Application Development - C# (.NET), C++, SQL
 - Design - Adobe XD, Adobe Illustrator & Balsamiq
 
 
