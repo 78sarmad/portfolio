@@ -1,6 +1,6 @@
 ## Sarmad Ashfaq Chaudhary
 
-Front-end Software Engineer
+Software Engineer specialized in building exceptional interfaces, web applications and everything in between.
 
 ### Experience
 
@@ -23,10 +23,12 @@ Design - Adobe XD, Illustrator & Balsamiq
 - [Reservify - Reservation Management App](https://github.com/78sarmad/reservify)
 - [Chaaye Khana Website](http://www.chaayekhana.com/) (discontinued)
 
+### Volunteer Work
+
+- Behance: [behance.net/78sarmad](https://www.behance.net/78sarmad)
 
 ### Get In Touch
 
 - Email: [sarmad.ashfaq@inbox.ru](mailto:sarmad.ashfaq@inbox.ru)
 - LinkedIn: [linkedin.com/in/78sarmad](https://www.linkedin.com/in/78sarmad/)
-- Behance: [behance.net/78sarmad](https://www.behance.net/78sarmad)
 - Blog: [78sarmad.wordpress.com](http://www.78sarmad.wordpress.com/)
