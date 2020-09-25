@@ -5,8 +5,7 @@ Software Engineer specialized in building exceptional interfaces, web applicatio
 ### Experience
 
 - UNDP - Software Developer
-- Chaaye Khana - Front-end Web Developer
-- Couch Potato - Wordpress Developer
+- Couch Potato - Web Developer
 
 
 ### Skills
