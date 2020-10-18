@@ -4,8 +4,8 @@ Software Engineer specialized in building exceptional interfaces, web applicatio
 
 ### Experience
 
-- UNDP - Software Developer
-- Couch Potato - Web Developer
+- United Nations Development Programme - Software Developer
+- Couch Potato - Frontend Web Developer
 
 
 ### Skills
